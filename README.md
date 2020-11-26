@@ -156,4 +156,4 @@ Vamos a separar del entry point cada ruta, agrupando por tipo de petición. Sepa
 - Como se indicó, las responsabilidades y comunicación de **modelo**, **vista** y **controlador** no es algo que podamos "decirle" que se deba respetar; es un esquema que debemos respetar nosotros al escribir nuestro código y al modularizar. Por lo que es fundamental mantener orden y coherencia en la estructura para que tenga sentido la modularización.
 
 
-***Nota: Se agregan archivos "fake.txt" a las carpetas vacías para poder subirlas al repositorio.***
+***Nota***: En el código del repositorio se encuentra una versión mas completa con ejemplo simple utilizando **'/views'**, **'/models'**, **'/public'** y **'/data'**. Que intenta mostrar mejór como el controlador se comunica con **Modelo** para obtener los datos antes de responder.
